@@ -1,0 +1,8 @@
+## ADF Data Flow Cleaning Logic
+
+1. Remove NULL CustomerID
+2. Remove NULL ProductID
+3. Remove duplicate CustomerID
+4. Trim spaces from names
+5. Remove invalid ProductID = 0
+6. Standardize product names
