@@ -1,0 +1,7 @@
+SELECT * FROM Customer;
+SELECT * FROM Product;
+SELECT * FROM Sales;
+
+SELECT COUNT(*) FROM Customer;
+SELECT COUNT(*) FROM Product;
+SELECT COUNT(*) FROM Sales;
