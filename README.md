@@ -1,6 +1,6 @@
 # Customer Account Analysis Pipeline
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates an end-to-end Azure Data Factory retail/customer sales pipeline.
 
 The solution includes:
@@ -13,7 +13,7 @@ The solution includes:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Azure Data Factory
 - Azure SQL Database
 - Azure Data Lake Storage Gen2
@@ -21,7 +21,7 @@ The solution includes:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 Documentation/
@@ -32,13 +32,13 @@ README.md
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 SQL Database → ADF Copy Activity → ADLS Raw → ADF Data Flow Cleaning → ADLS Clean
 
 ---
 
-## ✅ Validation Performed
+## Validation Performed
 - Removed duplicates
 - Removed NULL values
 - Standardized names
